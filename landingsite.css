@@ -1,0 +1,19 @@
+body
+{
+    width:90%;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: #002856;
+    color: white;
+}
+
+#fields
+{
+    width:60%;
+    margin: 130 140 0 160;
+    padding: 0 0 0 0;
+    align-self: center;
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+}
